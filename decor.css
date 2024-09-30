@@ -1,0 +1,98 @@
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+}
+.boxes1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 23%;
+    background-color: red;
+    margin: 10px;
+    
+}
+.start{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('done.jpg');
+    background-size: cover;
+}
+.end{
+    height: 20%;
+    background-color: grey;
+    width: 100%;
+}
+.end p{
+    padding-top: 1px;
+    padding-left: 4px;
+    color:white;
+    font-size: 23px;
+}
+
+.start2{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('dtwo.jpg');
+    background-size: cover;
+}
+
+.start3{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('dthree.jpg');
+    background-size: cover;
+}
+.start4{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('dfour.jpg');
+    background-size: cover;
+}
+.start21{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('dingone.jpg');
+    background-size: cover;
+}
+.start22{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('dingggg.jpg');
+    background-size: cover;
+}
+.start23{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('mini.jpg');
+    background-size: cover;
+}
+.start24{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('eight.jpg');
+    background-size: cover;
+}
+.heading{
+    font-size: 50px;
+    font-weight: 600;
+    margin: 10px;
+    color: red;
+}
+body{
+    background-color: black;
+}
+
