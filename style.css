@@ -1,0 +1,220 @@
+#navbar{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color:white;
+    padding: 20px;
+    border: solid black;
+}
+#logo{
+    background-color: black;
+    height: 60px;
+    width: 170px;
+    background-size: cover;
+    margin: 300px;
+    background-image: url(istockphoto-1177062159-612x612.jpg);
+}
+#navbar a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#0d3b66;
+    padding: 20px;
+    transition: 2.5s ease;
+}
+#navbar a:hover{
+    text-decoration: none;
+    font-size: 23px;
+    color:black;
+    padding: 20px;
+}
+#hero{
+    background-image: url(wp7558470.webp);
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    margin-top: 10px;
+}
+#start{
+    color: white;
+    position: absolute;
+    right: 80px;
+    font-size: 60px;
+    font-weight: 500;
+}
+#middle{
+    color: white;
+    position: absolute;
+    top:150px;
+    left: 90px;
+    font-size: 30px;
+    font-weight: 500;
+}
+#middle button{
+    background-color: white;
+    color: black;
+    width:130px;
+    height: 50px;
+    font-size: 20px;
+    position: absolute;
+    left: 40px;
+    border-color: white;
+    border-radius: 2rem;
+}
+#part2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box1 {
+    background-color: red;
+    margin: 5px;
+    height: 400px;
+    width:32%;
+}
+#part3 {
+    font-size: 30px;
+    background-color: rgb(255, 255, 2);
+    color: white;
+    height: 480px;
+    width:100%;
+   
+    background-image: url("R\ \(1\).jpg");
+    background-size: cover;
+}
+#part3 p{
+    color: white;
+    padding-top: 160px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#box2{
+    background-color: red;
+    margin: 5px;
+    height: 400px;
+    width:32%;
+}
+
+#box3 {
+    background-color: red;
+    margin: 5px;
+    height: 400px;
+    width:32%;
+}
+#box1{
+    background-image: url("one.jpg");
+    background-size: cover;
+}
+
+#box2{
+    background-image: url("OIP\ \(1\).jpg");
+    background-size: cover;
+}
+#box3{
+    background-image: url("T_WithoutZoom.jpg");
+    background-size: cover;
+}
+#box1 p{
+    color: white;
+    font-size: larger;
+    font-weight:600;
+    position: absolute;
+    left: 50px;
+}
+#box2 p{
+    color: white;
+    font-size: larger;
+    font-weight:600;
+    position: absolute;
+    left: 480px;
+}
+#box3 p{
+    color: white;
+    font-size: larger;
+    font-weight:600;
+    position: absolute;
+    left: 880px;
+}
+#special{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    color:black;
+    border: none;
+    border-radius: 15px;
+    background-image: url("OIP.jpg");
+    background-size: cover;
+    margin-top: 160px;
+    margin-left: 320px;
+}
+
+#middle a{
+    text-decoration: none;
+    color: black;
+}
+
+#part2 a{
+    text-decoration: none;
+    color: white;
+}
+
+#part2 a:hover{
+    color:red;
+}
+#footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+#first{
+    background-color: black;
+    height: 170px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+#second{
+    background-color: black;
+    height: 170px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+#footer p{
+    color: white;
+}
+
+i{
+    transform: scale(2);
+    color: white;
+}
+i:hover{
+    transform: scale(2);
+    color: red;
+}
+#second a{
+    color: white;
+    text-decoration: none;
+    
+}
+.square{
+    margin: 15px;
+}
+.circle{
+    color: white;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: 400;
+}
+#navbar i{
+    color: black;
+}
