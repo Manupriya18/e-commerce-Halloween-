@@ -1,0 +1,92 @@
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+}
+.boxes1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 23%;
+    background-color: red;
+    margin: 10px;
+}
+.start{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('exorcist.jpg');
+    background-size: cover;
+}
+.end{
+    height: 20%;
+    background-color: grey;
+    width: 100%;
+}
+.end p{
+    padding-top: 1px;
+    padding-left: 4px;
+    
+    font-size: 23px;
+}
+
+.start2{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('71th7Uv7XHL._AC_UL320_.jpg');
+    background-size: cover;
+}
+
+.start3{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('81b1PP4RK1L._AC_UL320_.jpg');
+    background-size: cover;
+}
+.start4{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('71iGbgp3GGL._AC_UL320_.jpg');
+    background-size: cover;
+}
+.start21{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('91+CQNeCtwL._AC_UY218_.jpg');
+    background-size: cover;
+}
+.start22{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('819xY0y3EKL._AC_UY218_.jpg');
+    background-size: cover;
+}
+.start23{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('51ulQuaRoqL._AC_UY218_.jpg');
+    background-size: cover;
+}
+.start24{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+    background-image: url('71GgfD0qv4L._AC_UY218_.jpg');
+    background-size: cover;
+}
+.heading{
+    font-size: 50px;
+    font-weight: 600;
+    margin: 10px;
+}
